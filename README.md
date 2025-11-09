@@ -2,7 +2,7 @@
 
 🌐 **Live Demo:** [Fashion Website](https://minnanourin.github.io/Fashion-Website/)  
 
-A responsive and modern single-page fashion store showcasing stylish collections and accessories.  
+A responsive front-end fashion store showcasing stylish collections and accessories, built with HTML, CSS, and JavaScript for a modern and interactive user experience.
 This project highlights strong front-end design skills and user-friendly UI/UX elements.
 
 ---
@@ -26,4 +26,13 @@ This project highlights strong front-end design skills and user-friendly UI/UX e
 
 ---
 
+## 📁 Folder Str/Fashion-Website
+│
+├── index.html
+├── /css
+│ └── style.css
+├── /js
+│ └── script.js
+└── /images
+└── (all assets)
 
